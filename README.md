@@ -8,4 +8,4 @@
 </h1>
 <h3 align="center">⚠️ Project in Romanian</h3>
 
-<p>📍 The dataset is available via the following link: <a href="https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset">Kaggle Link</a>.
+<p>📍 The dataset is available via the following link: <a href="https://vincentarelbundock.github.io/Rdatasets/articles/data.html">Rdatasets Link</a>.
